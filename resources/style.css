@@ -23,7 +23,7 @@ header {
   border-bottom: 1px solid seashell;
   align-items: center;
   width: 100%;
-  height: 69px;
+  min-height: 69px;
   background-color: black;
 }
 
